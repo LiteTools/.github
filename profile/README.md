@@ -9,8 +9,8 @@
 We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our applications actively for security and safety.
 
 
-
-###
+### Cubicle Suite
+Cubicle is an upcoming suite of software that will help aid you with working with documents and much more. The Cubicle Suite will include a document reader/writer, a PDF reader, and much more in the future.
 
 <!--
 
