@@ -2,17 +2,14 @@
 
 🙋‍♀️ **LiteTools focuses on making lightweight open-sourced tools for computers.**
 
-
 ## Our Products
 
 ### LiteTools Software
-We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our applications actively for security and safety.
-
-
-### Cubicle Suite
-Cubicle is an upcoming suite of software that will help aid you with working with documents and much more. The Cubicle Suite will include a document reader/writer, a PDF reader, and much more in the future.
+We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our applications actively for security and safety. Everyone can contribute, since our projects are open-sourced.
 
 <!--
+### Cubicle Suite
+Cubicle is an upcoming suite of software that will help aid you with working with documents and much more. The Cubicle Suite will include a document reader/writer, a PDF reader, and much more in the future. Cubicle Suite will be releasing in 2023 or later, a release date is unknown.
 
 **Here are some ideas to get you started:**
 
