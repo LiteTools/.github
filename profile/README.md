@@ -2,6 +2,7 @@
 
 
 🙋‍♀️ **LiteTools focuses on making lightweight open-sourced tools for computers.**
+**We founded LiteTools to help improve the world with our software. It's free and easy to use.**
 
 <!--
 
