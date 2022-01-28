@@ -5,15 +5,14 @@
 ## Our Products
 
 ### LiteTools Software
-We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our applications actively for security and safety. Everyone can contribute, since our projects are open-sourced.
+We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our apps actively for security and safety. Everyone can contribute, since our projects are open-sourced.
 
 <!--
 ### Cubicle Suite
-Cubicle is an upcoming suite of software that will help aid you with working with documents and much more. The Cubicle Suite will include a document reader/writer, a PDF reader, and much more in the future. Cubicle Suite will be releasing in 2023 or later, a release date is unknown.
+Coming soon in 2023, Cubicle is a suite of software that will help aid you with productivity. The Cubicle Suite will include many helpful tools such as an advanced document editor, a PDF reader, and much more.
 
-**Here are some ideas to get you started:**
+### Zyneum
 
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
 🍿 Fun facts - what does your team eat for breakfast?
 -->
