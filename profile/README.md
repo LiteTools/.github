@@ -3,10 +3,11 @@
 🙋‍♀️ **LiteTools focuses on making lightweight open-sourced tools for computers.**
 
 
-## Our Four Corners
+## Our Products
 
-### Lightweight and Free Software
-We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience.
+### LiteTools Software
+We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our applications actively for security and safety.
+
 
 
 ###
