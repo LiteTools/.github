@@ -7,10 +7,10 @@
 ### LiteTools Software
 We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications, we update our apps actively for security and safety. Everyone can contribute, since our projects are open-sourced.
 
-<!--
 ### Cubicle Suite
-Coming soon in 2023, Cubicle is a suite of software that will help aid you with productivity. The Cubicle Suite will include many helpful tools such as an advanced document editor, a PDF reader, and much more.
+Coming soon in 2023, Cubicle is a suite of software that will help aid you with productivity. The Cubicle Suite will include many helpful tools such as an advanced word processor, a PDF reader, and much more.
 
+<!--
 ### Zyneum
 
 
