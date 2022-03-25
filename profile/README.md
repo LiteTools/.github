@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/53088136/151556610-ef152057-0e92-4c4b-851e-1313f269eb0e.png)
 
-🙋‍♀️ **LiteTools focuses on making lightweight and open source tools for computers. **
+🙋‍♀️ **LiteTools focuses on making lightweight and open source tools for computers.**
 
 ## Our Products
 We have multiple departments of software. Our general LiteTools software is open sourced and free to use while Cubicle is a suite of commercial software which is for a monthly fee.
