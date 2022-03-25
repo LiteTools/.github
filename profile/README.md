@@ -4,7 +4,7 @@
 
 
 ## Our Products
-We have multiple departments of software. Our general LiteTools software is open sourced and free to use while Cubicle is a suite of commercial software which is for a monthly fee.
+We have multiple departments of software. Our LiteTools software is completely free and open source while Cubicle is a paid software suite.
 
 ### LiteTools Software
 We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications. We update our apps actively for security and safety. Everyone can contribute, since our projects are open-sourced and these applications are free of charge with no hidden payments.
