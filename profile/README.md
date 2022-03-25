@@ -9,7 +9,7 @@ We have multiple departments of software. Our general LiteTools software is open
 We develop lightweight and free software for anyone to install, we try our best to ensure an easy experience better than other applications. We update our apps actively for security and safety. Everyone can contribute, since our projects are open-sourced and these applications are free of charge with no hidden payments.
 
 ### Cubicle Suite
-Coming soon in 2024 (Beta Testing starting in 2023), Cubicle is a software suite that will aid you with productivity. The Cubicle Suite will include many helpful tools such as an advanced word processor, a PDF reader, and much more. Cubicle is closed source and has a monthly or yearly membership depending on the plan. There are two different plan options to choose from, Personal or Enterprise.
+Coming soon in 2024 (Beta Testing starting in 2023), Cubicle is a software suite that will aid you with productivity. The Cubicle Suite will include many helpful tools such as an advanced word processor, a PDF reader, and much more. Cubicle is closed source and requires a monthly or yearly membership to use.
 
 
 <!--
