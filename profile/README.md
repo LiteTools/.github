@@ -1,5 +1,4 @@
-# ![image-removebg-preview (1)](https://user-images.githubusercontent.com/53088136/173068927-688899d0-e6ad-442e-b5c0-bcc27e9f5578.png)
-
+# ![v3](https://user-images.githubusercontent.com/53088136/173069028-2c8bcff3-0718-4cd7-bbf2-40c913d0bb43.png)
 
 ### 🙋‍♀️ **LiteTools focuses on making lightweight and open source tools for computers.**
 
