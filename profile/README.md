@@ -4,4 +4,6 @@
 
 **QuickLock Repository**: https://github.com/byronbytes/QuickLock
 
+**Tasks Repository**: https://github.com/byronbytes/Tasks
+
 
