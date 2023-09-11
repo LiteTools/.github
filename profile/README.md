@@ -1,6 +1,8 @@
 # LiteTools
 
-### LiteTools will be discontinuing soon. All moved repositories will be listed here.
+
+### Old Software
+We have moved our software to a personal repository as our views are changing.
 
 **QuickLock Repository**: https://github.com/byronbytes/QuickLock
 
